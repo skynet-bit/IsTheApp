@@ -10,7 +10,7 @@ The download of the IsTheApp app is 100% free. However, developing and supportin
   <img src="https://raw.githubusercontent.com/M1Dr05/IsTheApp/master/art/paypal.png">
 </a>
 
-# Feacture
+# Feature
 - Multiple Child clients
 - Hidden app icon (stealth mode)
 - Real-time location.
